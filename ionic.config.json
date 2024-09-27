@@ -1,0 +1,7 @@
+{
+  "name": "Conversatodo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
